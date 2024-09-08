@@ -28,7 +28,3 @@ npm run dev
 npm run build
 ```
 # vue-cart
-# vue-cart
-# vue-cart
-# vue-cart
-# vue-cart
